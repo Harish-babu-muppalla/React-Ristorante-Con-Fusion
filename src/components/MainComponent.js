@@ -25,7 +25,6 @@ class Main extends Component {
           leaders: LEADERS
         };
       }
-
   render() {
     const HomePage = () => {
         return(

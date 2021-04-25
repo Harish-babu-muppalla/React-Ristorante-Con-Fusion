@@ -93,4 +93,4 @@ const RenderLeader = ({leader}) => {
     );
 }
 
-export default About;    
+export default About;   
